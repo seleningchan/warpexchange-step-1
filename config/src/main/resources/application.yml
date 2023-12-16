@@ -1,6 +1,6 @@
 # config server port:
 server:
-  port: 8880
+  port: 8888
 
 spring:
   application:
